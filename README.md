@@ -1,0 +1,1 @@
+# instant-fires-and-poops-isaac-mod
