@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="https://wofsauge.github.io/isaac-xml-validator/xsd/metadata.xsd" ?>
+<metadata>
+  <name>instant-fires-and-poops-isaac-mod</name>
+  <directory>instant-fires-and-poops-isaac-mod</directory>
+  <description>instant-fires-and-poops-isaac-mod is a currently a work in progress.</description>
+  <version>1.0</version>
+  <visibility />
+</metadata>
