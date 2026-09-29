@@ -26,7 +26,7 @@ jobs:
   # - Change the image to: https://github.com/IsaacScript/isaacscript/raw/main/misc/github.png
   # - Click on the "Save Changes" button at the bottom.
   # - Click on the "Copy Webhook URL" button.
-  # - Go to the main page for your repository on GitHub.
+  # - Go to the mod page for your repository on GitHub.
   # - Click on the "Settings" tab near the top.
   # - Click on "Secrets and variables" in the left menu.
   # - Click on "Actions" from the dropdown list.
