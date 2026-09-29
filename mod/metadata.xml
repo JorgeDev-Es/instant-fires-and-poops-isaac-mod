@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<?xml-model href="https://wofsauge.github.io/isaac-xml-validator/xsd/metadata.xsd" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <name>Instant Fires and Poops</name>
-  <directory>instant-fires-and-poops-isaac-mod</directory>
-  <description>Instant Fires and Poops is a mod for The Binding of Isaac Repentance+.</description>
-  <version>1.0.1</version>
-  <visibility />
+    <name>Instant Fires and Poops (Repentogon)</name>
+    <directory>instant-fires-and-poops-isaac-mod</directory>
+    <id>0</id>
+    <description>Instant Fires and Poops is a mod for The Binding of Isaac Repentance+.</description>
+    <version>1.0.1</version>
+    <visibility>Public</visibility>
 </metadata>
