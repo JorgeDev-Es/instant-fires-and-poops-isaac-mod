@@ -39,6 +39,7 @@
     "isaacscript": "6.0.14",
     "isaacscript-lint": "8.1.0",
     "isaacscript-tsconfig": "^7.1.0",
+    "ncu": "^0.2.1",
     "oxfmt": "^0.70.0",
     "oxlint": "~1.85.0",
     "oxlint-tsgolint": "^7.0.2003",
